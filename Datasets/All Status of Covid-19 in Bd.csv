@@ -1,4 +1,4 @@
-Date,Total_tested,Total cases,Total_deaths,Total_recovered,Newly_tested,New_cases,New_deaths,Newly_recovered,Days_since_first_confirmed_cases
+Date,Total_tested,Total_cases,Total_deaths,Total_recovered,Newly_tested,New_cases,New_deaths,Newly_recovered,Days_since_first_confirmed_cases
 03-08-20,120,3,0,0,9,3,0,0,0
 03-09-20,127,3,0,0,7,0,0,0,1
 03-10-20,137,3,0,0,10,0,0,0,2
